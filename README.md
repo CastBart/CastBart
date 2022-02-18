@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning more about programming practices. In college I've mostly studied C# and C++. Most recently I found interest in web design therefore im
       trying to tone my skills in languages such as JavaScript, HTML5, CSS3 and also using jQuerry and Bootstrap!
       
-- 📫 You can reach me on my email adress -bartosz.j.zych@gmail.com
+- 📫 You can reach me on my email address -bartosz.j.zych@gmail.com
 
 
