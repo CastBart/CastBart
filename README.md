@@ -4,7 +4,7 @@
       afraid of challanges. So far my favorite hobby is rock climbing indoors but very excited to try it outdoors on natural rocks! Technology in general is one of
       my biggest intrests and how it leads to human evolution.
       
-- 🌱 I’m currently learning more about programming practices. In college I've mostly studied C# and C++. Most recently I found interest in web design therfore im
+- 🌱 I’m currently learning more about programming practices. In college I've mostly studied C# and C++. Most recently I found interest in web design therefore im
       trying to tone my skills in languages such as JavaScript, HTML5, CSS3 and also using jQuerry and Bootstrap!
       
 - 📫 You can reach me on my email adress -bartosz.j.zych@gmail.com
